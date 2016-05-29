@@ -1,0 +1,14 @@
+layout_spectrum: 0.8711150120943785
+typography_spectrum: 0.2632626099511981
+color:
+  brandStrength: 0.8154404379893094
+  lightness: 0.2696897927671671
+  saturation: 0.623945230152458
+  rhythmicContrast: 0.5660770947579294
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Sticky Tack
