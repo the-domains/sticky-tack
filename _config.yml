@@ -1,16 +1,16 @@
-layout_spectrum: 0.8711150120943785
+layout_spectrum: 0.2018770552240312
 typography_spectrum: 0.2632626099511981
 color:
-  brandStrength: 0.8154404379893094
-  lightness: 0.2696897927671671
-  saturation: 0.623945230152458
-  rhythmicContrast: 0.5660770947579294
+  brandStrength: 0.03604204184375703
+  lightness: 0.8794699143618345
+  saturation: 0.5937692443840206
+  rhythmicContrast: 0.8295720126479864
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: Sticky Tack
 author:
   name: Randy Frederik
